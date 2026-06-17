@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:godaddy/eslint-plugin-i18n-json"
+    "url": "git+https://github.com/godaddy/eslint-plugin-i18n-json.git"
   },
   "keywords": [
     "eslint",
